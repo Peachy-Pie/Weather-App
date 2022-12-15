@@ -1,0 +1,8 @@
+.header {
+    background-image: linear-gradient(90deg, rgb(29, 29, 201), rgb(12, 2, 59));
+}
+
+.card {
+    background-color: rgb(67, 64, 90);
+    color: white;
+}
